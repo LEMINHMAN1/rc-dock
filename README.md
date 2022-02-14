@@ -1,4 +1,5 @@
-# Dock Layout for React Component
+# Dock Layout for React Component.
+
 
 ![](https://ticlo.github.io/rc-dock/images/demo.gif)
 
